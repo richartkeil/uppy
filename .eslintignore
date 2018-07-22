@@ -1,7 +1,7 @@
 node_modules
 lib
 dist
-coverage/**
+coverage
 test/lib/**
 website/private_modules/hexo-renderer-uppyexamples/node_modules/**
 website/public/**
@@ -9,4 +9,3 @@ website/themes/uppy/source/js/smooth-scroll.min.js
 website/themes/uppy/source/js/uppy.js
 website/themes/uppy/source/uppy/**
 bundle.js
-packages/@uppy/companion
